@@ -1,0 +1,49 @@
+帳號:Steven-HiMs
+密碼 dadmin7077
+
+git config --global user.name "<Steven-HiMs>"
+設定USER名子，請設定跟帳號一樣
+
+git config --global user.email "<steven11@hotaimotor.com.tw>"
+設定信箱，目前帳號是設定我的
+
+git remote add origin https://github.com/steven-HiMs/Infra.git
+加入指定server位址
+
+git push -u origin master
+加入這台電腦資料回傳的使用者
+
+git add 檔案名稱.副檔名
+加入追蹤(每次修改完要下至指令)
+
+git add --all
+將此資料夾全部檔案加入追蹤
+
+git checkout -- 檔案名稱.副檔名
+取消修改
+
+git rm --cached 檔案名稱.副檔名
+取消追中
+
+git commit -m "Init 檔案名稱.副檔名"
+commit 進去資料庫
+
+git commit -a -m "修改了 hello.py"
+修改後也需要commit一次並可以留下訊息"訊息"
+
+git status
+看狀態是否有還沒commit檔案
+紅色字代表修改過還沒追蹤需要下git add
+綠色字代表已追蹤但還沒commit需要下git commit -m"修改訊息"
+
+git clone 網址
+可以將專案下載下來
+
+git log
+可以看出資料的歷史紀錄
+
+git push
+將資料回傳給GitHub Server，需輸入帳號密碼
+
+
+
