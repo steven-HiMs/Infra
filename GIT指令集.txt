@@ -13,6 +13,9 @@ git remote add origin https://github.com/steven-HiMs/Infra.git
 git push -u origin master
 加入這台電腦資料回傳的使用者
 
+git init
+資料夾加入追蹤
+
 git add 檔案名稱.副檔名
 加入追蹤(每次修改完要下至指令)
 
