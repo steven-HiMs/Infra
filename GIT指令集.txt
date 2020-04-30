@@ -51,5 +51,8 @@ git log
 git push
 將資料回傳給GitHub Server，需輸入帳號密碼
 
+git diff
+修改過不一樣的地方
+
 
 
