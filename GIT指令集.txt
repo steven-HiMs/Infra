@@ -16,6 +16,9 @@ git push -u origin master
 git init
 資料夾加入追蹤
 
+mkdir 資料夾名稱
+建立資料夾
+
 git add 檔案名稱.副檔名
 加入追蹤(每次修改完要下至指令)
 
